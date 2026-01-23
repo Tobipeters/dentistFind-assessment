@@ -1,6 +1,26 @@
 # Oluwatobi Taiwo - DentistFind Assessment
 
 
+## 1. How to Run the Project
+
+# Clone the repository
+git clone https://github.com/Tobipeters/dentistFind-assessment
+
+# Navigate into the project directory 
+cd dentistfind-test
+
+# Install the necessary dependencies
+npm install
+
+# Start the Development Server
+npm run dev
+
+# Once the server is running, open the broswer and visit
+http://localhost:5173/
+
+
+## 2. Project Approach
+
 ### 1. Component & Styling Decisions
 
 - Component structure
