@@ -3,19 +3,19 @@
 
 ## 1. How to Run the Project
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Tobipeters/dentistFind-assessment
 
-# Navigate into the project directory 
+### Navigate into the project directory 
 cd dentistfind-test
 
-# Install the necessary dependencies
+### Install the necessary dependencies
 npm install
 
-# Start the Development Server
+### Start the Development Server
 npm run dev
 
-# Once the server is running, open the broswer and visit
+### Once the server is running, open the broswer and visit
 http://localhost:5173/
 
 
